@@ -1,0 +1,10 @@
+# Large APK files
+*.apk
+*.apkm
+
+# IDE files
+.DS_Store
+.idea/
+
+# Compiled binaries
+*.dylib
